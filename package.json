@@ -1,0 +1,21 @@
+{
+  "name": "rithik-ai-portfolio",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "dev": "./node_modules/.bin/vite --host 0.0.0.0",
+    "build": "./node_modules/.bin/vite build",
+    "preview": "./node_modules/.bin/vite preview --host 0.0.0.0"
+  },
+  "dependencies": {
+    "@vitejs/plugin-react": "latest",
+    "vite": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "react-router-dom": "latest",
+    "framer-motion": "latest",
+    "lucide-react": "latest"
+  },
+  "devDependencies": {}
+}
